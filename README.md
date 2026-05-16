@@ -1,12 +1,9 @@
 <h1 align="center">Hey there, I'm Stalin Rijal 👋</h1>
-
-<h3 align="center">☁️ DevOps • SRE • Cloud Engineer | Toronto, Canada 🍁</h3>
+<h4 align="center">☁️ Cloud • SRE • DevOps Engineer | Toronto, Canada 🍁</h4>
 
 <p align="center">
-  <em>
-    5+ years of experience designing, automating, and securing scalable multi-cloud infrastructure.<br/>
-    Focused on Infrastructure as Code, CI/CD, Kubernetes, observability, and cloud security at scale.
-  </em>
+  <em>5+ years building, automating, and securing scalable multi-cloud environments.<br/>
+  Passionate about Infrastructure as Code, CI/CD, observability, and zero-trust security.</em>
 </p>
 
 ---
@@ -14,147 +11,118 @@
 ### 🔗 Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/stalinrijal" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+  <a href="https://linkedin.com/in/stalinrijal" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stalinrijal" height="30" width="40" />
   </a>
-
-  <a href="https://medium.com/@stalinrijal" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40"/>
+  <a href="https://medium.com/@stalinrijal" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@stalinrijal" height="30" width="40" />
   </a>
-
-  <a href="https://twitter.com/stalinrijal" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
+  <a href="https://twitter.com/stalinrijal" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stalinrijal" height="30" width="40" />
   </a>
-
-  <a href="https://stackoverflow.com/users/stalinrijal" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40"/>
+  <a href="https://stackoverflow.com/users/stalinrijal" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stalinrijal" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-### 🚀 What I'm currently focused on
+### 🚀 Currently working on...
 
-- 🔧 Building scalable DevOps & cloud-native systems
-- ☁️ Kubernetes (AKS / EKS) infrastructure automation
-- 🔐 Cloud security, IAM design & zero-trust architecture
-- 📦 CI/CD pipelines with GitHub Actions & Jenkins
-- 📊 Observability using Prometheus, Grafana & ELK
-- 💰 Cloud cost optimization (FinOps practices)
+- 🔧 DevOps & Cloud infrastructure projects
+- 🔐 Cybersecurity & Threat Management (Seneca Polytechnic, 2025)
+- 📝 Writing about DevOps & Cloud on [Medium](https://medium.com/@stalinrijal)
 
 ---
 
 ### 🧠 About Me
 
-- 🏢 IT Engineer @ Kinka Management Inc — GCP, MDM, POS infrastructure for multi-location systems  
-- 🏛️ Ex DevOps Engineer Co-op @ Government of Ontario — Azure automation & FinOps (~40% cost optimization)  
-- 🌏 Ex Senior Platform Engineer @ Cedar Gate Technologies — AWS, CI/CD, IaC, monitoring, deployments  
-- 🎓 Postgraduate: Cloud Architecture & Cybersecurity — Seneca Polytechnic  
-- 🌐 Languages: English • Nepali • Hindi • Tamil • French  
+- 🏢 **IT Engineer** @ Kinka Management Inc — managing GCP, MDM, POS infrastructure for a multi-location restaurant chain
+- 🏛️ Ex **DevOps Engineer Co-op** @ Government of Ontario — Azure automation, FinOps (up to 40% cost savings identified)
+- 🌏 Ex **Senior Platform Engineer** @ Cedar Gate Technologies — CI/CD, IaC, AWS monitoring, multi-stack deployments
+- 🎓 **Dual Postgrad Certificates** from Seneca Polytechnic: Cloud Architecture & Cybersecurity
+- 🌐 Multilingual: English · Nepali · Hindi · Tamil · French
 
 ---
 
 ### ☁️ Tech Stack
 
-#### Cloud & Orchestration
+<h4>Cloud & Orchestration</h4>
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
+  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
+  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
+  <a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
+  <a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
 </p>
 
-#### CI/CD & IaC
+<h4>CI/CD & IaC</h4>
 <p>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40"/>
-  <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" width="40"/>
+  <a href="https://www.jenkins.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
+  <a href="https://github.com/features/actions" target="_blank"><img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="github actions" width="40" height="40"/></a>
+  <a href="https://www.terraform.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/></a>
+  <a href="https://www.ansible.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/></a>
+  <a href="https://argoproj.github.io/cd/" target="_blank"><img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="argocd" width="40" height="40"/></a>
 </p>
 
-#### Observability & Security
+<h4>Monitoring & Observability</h4>
 <p>
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40"/>
+  <a href="https://prometheus.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/></a>
+  <a href="https://grafana.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/></a>
+  <a href="https://www.elastic.co/" target="_blank"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elk" width="40" height="40"/></a>
 </p>
 
-#### Languages & Tools
+<h4>Scripting & Languages</h4>
 <p>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 </p>
 
 ---
 
 ### 🏅 Certifications
 
-- Azure Administrator Associate  
-- AWS Cloud Security Foundations  
-- Google Cloud SRE & DevOps Engineer  
-- Cisco CCNA (Networking, Security & Automation)  
-- Linux Server Security & Administration  
-- GitOps Fundamentals (Codefresh)  
-- Cloud Security & Audit Fundamentals  
-- Application Security for DevOps  
+| Certification | Issuer |
+|---|---|
+| Azure Administrator Associate | Microsoft |
+| AWS Cloud Security Foundations | AWS |
+| CCNA – Enterprise Networking, Security & Automation | Cisco |
+| Google Cloud SRE and DevOps Engineer | Google |
+| Linux Server Management and Security | Linux Foundation |
+| GitOps Fundamentals | Codefresh |
+| Cloud Security and Audit Fundamentals | Linkedin |
+| Application Security for Developers and DevOps | Linkedin |
 
 ---
 
 ### 📌 Featured Projects
 
-#### 🔒 Cloud Security Assessment (Azure)
-Security audit of enterprise application, including:
-- Threat modeling
-- PCI-DSS / CIS benchmark mapping
-- Cloud security gap analysis
+#### 🔒 Web Application Security Assessment — *Ferro Technics Inc*
+Security assessment of an Azure-based mortgage application; mapped controls to PCI-DSS & CIS Benchmarks, delivered threat modeling and compliance gap analysis.
 
----
+#### ☁️ A1-Prep Cloud Platform — *Seneca Polytechnic*
+AWS-based containerized mock test app using EKS, Terraform, and Ansible for scalable automated infrastructure and continuous deployment.
 
-#### ☁️ A1-Prep Cloud Platform (AWS)
-Scalable mock test platform using:
-- EKS (Kubernetes)
-- Terraform IaC
-- Ansible automation
-- CI/CD pipelines
-
----
-
-#### 📊 Security Monitoring Platform
-- ELK stack log pipeline
-- Real-time threat monitoring
-- Automated alerting system
+#### 📊 Security Monitoring Dashboard — *Seneca Polytechnic*
+ELK-based threat monitoring dashboard using CIC dataset and live logs, with automated alerting for real-time incident detection.
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stalinrijal&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=stalinrijal&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stalinrijal&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stalinrijal&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 💡 DevOps Philosophy
-
 <p align="center">
-  <em>
-    "Automate everything possible. Observe everything important. Secure by design, not by afterthought."
-  </em>
+  <em>"Flexible and open to relocating as needed."</em><br/>
+  📧 stalinrijal.devops@gmail.com &nbsp;|&nbsp; 📍 Toronto, Canada
 </p>
-
----
-
-### 📫 Contact
-
-📧 stalinrijal.devops@gmail.com  
-📍 Toronto, Canada  
-🌐 Open to DevOps / SRE / Platform Engineer roles globally
